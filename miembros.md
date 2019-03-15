@@ -23,3 +23,6 @@
 21. Giganta
 22. Deadshot
 23. Scarecrow
+24. Priscilla
+25. Adolfito
+26. Sebastian
